@@ -1,3 +1,4 @@
+class TestKomputer {
 	public static void main(String[] args) {
 		{
 			Notebook01 asus=new Notebook01(3500, 4000, 80000, 7000);
