@@ -11,8 +11,7 @@ public class Test {
         Motor ninja = new Motor("Ninja", "Hitam", 55.000000,"Mesin rusak");
 
         Mekanik beat = new Mekanik("aditya","Madiun",'l',vegaZr);
-        System.out.println(beat
-                .toString());
+        System.out.println(beat.toString());
 
     }
 
